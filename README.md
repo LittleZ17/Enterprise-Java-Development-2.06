@@ -7,10 +7,9 @@
 
 
 ## Case Diagram
+![App Screenshot](src/assets/CaseDiagram.png)
 
-![App Screenshot]("src/assets/CaseDiagram.png")
 
 
 ## Class Diagram
-
-![App Screenshot]("src/assets/CaseDiagram.png")
+![App Screenshot](src/assets/ClassDiagram.png)
